@@ -15,3 +15,4 @@ test tagging 5
 
 test tagging 6
 test tagging happy path1
+test tagging happy path2
