@@ -12,3 +12,5 @@ test tagging 3
 bug fix
 test tagging 4
 test tagging 5
+
+test tagging 6
