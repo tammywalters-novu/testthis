@@ -10,3 +10,4 @@ test tagging 1
 test tagging 2
 test tagging 3
 bug fix
+test tagging 4
